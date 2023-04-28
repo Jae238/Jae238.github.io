@@ -10,4 +10,4 @@ labels:
   - Checkpoint
   - Assignment 3
 ---
-Hey guys! Here's the link to my checkpoint presentation _____. Thanks for checking it out :)
+Hey guys! Here's the link to my [checkpoint presentation](https://youtu.be/NVmUXAcoHZY). Thanks for checking it out :)
